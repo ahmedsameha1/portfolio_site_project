@@ -7,3 +7,19 @@
 .all-caps {
     text-transform: uppercase;
 }
+
+#logo {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.header-text {
+    float: right;
+}
+
+.header-content {
+    height: 180px;
+    padding: 30px;
+    border-bottom: solid 5px #aaa;
+}
