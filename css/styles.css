@@ -10,18 +10,17 @@
 }
 
 #logo {
-    float: left;
     width: 100px;
     height: 100px;
+    float: left;
 }
 
 .header-text {
-    float: right;
+    text-align: right;
 }
 
 .header-content {
-    height: 130px;
-    padding: 15px 0;
+    padding: 30px 0;
     margin: 10px;
     border-bottom: solid 5px #aaa;
 }
