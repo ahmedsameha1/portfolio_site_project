@@ -24,3 +24,13 @@
     margin: 10px;
     border-bottom: solid 5px #aaa;
 }
+
+.color-filled {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#main-img {
+    max-width: 100%;
+}
