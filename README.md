@@ -22,3 +22,5 @@ https://stackoverflow.com/questions/1367847/why-doesnt-the-wrapper-div-wrap-the-
 https://stackoverflow.com/questions/4566100/css-h1-only-as-wide-as-the-text
 
 My mentor: ARAVIND RAJ.
+
+https://dummyimage.com/

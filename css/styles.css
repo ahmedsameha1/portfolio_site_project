@@ -26,11 +26,31 @@
 }
 
 .color-filled {
-    background-color: red;
     width: 100px;
     height: 100px;
+    margin: auto;
+}
+
+.color-box {
+    text-align: center;
 }
 
 #main-img {
     max-width: 100%;
+}
+
+.color-img {
+    max-width: 100%;
+}
+
+#firstcolor {
+    background-color: #02b3e4;
+}
+
+#secondcolor {
+    background-color: #2d3c49;
+}
+
+#thirdcolor {
+    background-color: #7d97ad;
 }
