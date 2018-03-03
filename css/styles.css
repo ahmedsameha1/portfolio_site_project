@@ -67,6 +67,13 @@ p {
 }
 
 .project-img {
-    width: 250px;
-    height: 125px;
+    width: 220px;
+    height: 110px;
+}
+
+span {
+    display: block;
+    width: 270px;
+    word-wrap: break-word;
+    margin: auto;
 }
