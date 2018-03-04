@@ -41,18 +41,8 @@
 
 .color-img {
     max-width: 100%;
-}
-
-#firstcolor {
-    background-color: #02b3e4;
-}
-
-#secondcolor {
-    background-color: #2d3c49;
-}
-
-#thirdcolor {
-    background-color: #7d97ad;
+    display: block;
+    margin: auto;
 }
 
 p {
