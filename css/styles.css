@@ -60,8 +60,10 @@ p {
 }
 
 .project-img {
-    width: 220px;
-    height: 110px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    padding: 0 10px;
 }
 
 span {
