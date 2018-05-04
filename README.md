@@ -27,3 +27,17 @@ https://dummyimage.com/
 
 https://stackoverflow.com/
 
+https://pixabay.com/en/analytics-information-innovation-3088958/
+
+https://pixabay.com/en/matrix-network-data-exchange-1013612/
+
+https://pixabay.com/en/code-code-editor-coding-computer-1839406/
+
+https://pixabay.com/en/social-media-digitization-digital-2786261/
+
+https://review.udacity.com/#!/reviews/1195460
+
+https://review.udacity.com/#!/reviews/1068628
+
+https://stackoverflow.com/a/34811386 by: Boxiom.
+
